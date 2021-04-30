@@ -1,0 +1,24 @@
+.Auth {
+    background-color: hotpink;
+    padding: 30px;
+    height: 200px;
+}
+
+.btn-start {
+    background-color: green;
+    width: 270px;
+    height: 30px;
+    border: 1px solid green;
+    font-weight: 900;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-start:hover {
+    background-color: lightgreen;
+    color: gray;
+}
+
+.Input {
+    outline: none;
+}
